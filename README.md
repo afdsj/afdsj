@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
 
-### Hi there 👋
+###### 강소임 👋
 
 
 
