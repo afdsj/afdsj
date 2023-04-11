@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
 
-###### 강소임 👋
+######  👋
 
 #### 안녕하세요 저는 강소임이라고 합니다 6개월동안 같이 교육 잘 받았으면 좋겠습니다
 
