@@ -1,7 +1,5 @@
 
-######  👋
-
-#### 안녕하세요 저는 강소임 입니다 <br/> 6개월동안 같이 교육 잘 받았으면 좋겠습니다
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20doimi&fontSize=90)
 
 
 <!--
